@@ -1,0 +1,6 @@
+1. /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py
+    line 1377: ssl._create_default_https_context = ssl._create_unverified_context
+2. Already undone the above action, instead, using the solution provided by
+    https://stackoverflow.com/questions/27835619/urllib-and-ssl-certificate-verify-failed-error
+    Craig Glennie's answer
+
